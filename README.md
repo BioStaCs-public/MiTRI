@@ -1,10 +1,9 @@
-# MiTRI - Microbial Transcriptional Reprogramming Index
+# Transcriptional Reprogramming of Tumor-Associated Microbiome Creates Specific Epitope Repertoire
 ## Overview
-MiTRI is a computational framework for quantifying microbial transcriptional reprogramming in tumor microenvironments and identifying tumor-specific microbial antigens for cancer immunotherapy.
+MiTRI is a computational framework for quantifying microbial transcriptional reprogramming in tumor microenvironments and identifying tumor-specific microbial epitopes for cancer immunotherapy.
 ### Key Features
 - Quantify Microbial Transcriptional Reprogramming: Calculate MiTRI scores to measure differential gene expression patterns of tumor-resident microbes
 - Identify Tumor-Specific Antigens: Discover microbial peptides exclusively expressed in tumor tissues
-- Predict HLA-Binding Peptides: Computational prediction of microbial peptides with high immunogenic potential
 - Pan-Cancer Analysis: Applicable across multiple cancer types
 ## Citation
 If you use MiTRI in your research, please cite:
