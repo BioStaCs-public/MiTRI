@@ -20,8 +20,7 @@ This software is provided for academic and non-commercial use only.
 For commercial use, please contact the corresponding authors.
 
 ## Contact
-For questions and support, please contact the corresponding authors:
-- zyuanwei@cmpt.ac.cn
+For questions and support, please contact the corresponding authors as detailed in the manuscript.
 
 ## Acknowledgments
 This work was supported by the National Natural Science Foundation of China and other funding agencies as detailed in the manuscript.
