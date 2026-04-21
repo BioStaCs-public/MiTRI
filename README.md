@@ -1,7 +1,7 @@
 # Quantifying microbial transcriptional reprogramming enables tumour-restricted peptide discovery
 
 ## Overview
-**MiTRI** (Microbial Transcriptional Reprogramming Index) is a specialized computational framework developed to quantify microbial transcriptional reprogramming in tumor microenvironments. This repository contains the core analytical scripts used to calculate MiTRI scores, perform selective transcriptional enrichment analysis, and reproduce the figures presented in our study.
+**MiTRI** (Microbial Transcriptional Reprogramming Index) is a specialized computational framework developed to quantify microbial transcriptional reprogramming in tumor microenvironments. This repository contains the core analytical scripts used to calculate MiTRI values, perform selective transcriptional enrichment analysis, and reproduce the figures presented in our study.
 
 ⚠️ **Pipeline Architecture & Prerequisites:**
 This repository (`MiTRI`) focuses on the specific quantification of transcriptional reprogramming and downstream visualizations. 
@@ -19,7 +19,7 @@ Please ensure you have processed your raw sequencing datasets through the `Mimic
 
 ## Citation
 If you use MiTRI or our methodology in your research, please cite our paper:
-> Yuxin Zhang, Jinman Fang, Wei Wang, et al. "Quantifying microbial transcriptional reprogramming enables tumour-restricted peptide discovery." (2025)
+> "Quantifying microbial transcriptional reprogramming enables tumour-restricted peptide discovery." (2026)
 
 ## Data Availability
 - **Sequencing Data:** PRJNA1301281 (NCBI SRA, controlled access)
