@@ -1,0 +1,56 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Rproj.user/
+*.RData
+*.RDS
+*.rds
+*.rda
+
+# Logs and runtime checkpoints
+*.log
+logs/
+progress_checkpoint.rds
+
+# Local data and generated analysis outputs at the repository root
+/data/
+/raw_data/
+/results/
+/results_*/
+/output/
+/outputs/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Temporary files
+*.tmp
+*.temp
+~$*
