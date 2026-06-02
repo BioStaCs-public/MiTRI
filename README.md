@@ -6,6 +6,10 @@ MiTRI (Microbial Transcriptional Reprogramming Index) is a workflow for quantify
 
 The code is provided for review and reuse. It is not packaged as a one-command pipeline because several steps depend on controlled-access sequencing, local reference indices, and intermediate tables generated on the analysis server.
 
+## Manuscript Status
+
+The MiTRI manuscript is under review and has not been published yet. For that reason, the `paper/` directory is currently a placeholder rather than a final manuscript archive. The manuscript text, figures, and analysis code may still change during peer review. This repository will be updated after publication or when a release-ready manuscript version is available.
+
 ## Inputs
 
 The repository starts from processed inputs, including:
